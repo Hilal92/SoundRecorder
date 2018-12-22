@@ -1,20 +1,39 @@
-Easy Sound Recorder
+Easy Sound Recorder - Espresso Functional Tests
 =============
 
-<p>A simple sound recording app implementing Material Design.</p>
+<p>This app is a simple sound recording app implementing Material Design. 
+Forked from [!Orginal Repo](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)
+</p>
 
-[![Android app on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder) [![Android app on F-Droid](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Get_it_on_F-Droid.svg/200px-Get_it_on_F-Droid.svg.png)](https://f-droid.org/repository/browse/?fdid=com.danielkim.soundrecorder)
+Requirements:
 
-Screenshots:
+- User can record sound
+- User can rename a recorded sound file
+- User can delete a recorded sound file
+- User can enable high quality recording
+- User can have more than one recorded sound file
+- User can open recorded sound files
+- User should be notified after sound recorded
+- App should have Spanish and French language support
 
-![alt tag](http://i.imgur.com/4W5fj0Il.png) ![alt tag](http://i.imgur.com/7ggcFQzl.png) ![alt tag](http://i.imgur.com/RqD8S3Il.png) ![alt tag](http://i.imgur.com/H6ScO21l.png)
+You have 2 goals:
+- Preparing test cases
+- Implementing them
 
+Important Points:
+- Fork repo and start with new one
+- README.md file should be in tests folder and it should contain test case list.
+- Tests should be executable both on a Phone and a Tablet emulator
+- Send an email after new repo-branch is ready to review (to: sabri.mutlucag@udemy.com)
 
-Credits / Libraries used:
+Evaluation Criteria:
+- Code should be easy to read and understand
+- Implementation should contain Test Design Patterns 
+- Commit Messages should be descriptive
+- Clean Code techniques should be applied
 
-https://github.com/makovkastar/FloatingActionButton
-
-https://github.com/MohammadAG/Android-SoundRecorder
-
-https://github.com/astuetz/PagerSlidingTabStrip
-
+Useful Links:
+https://developer.android.com/training/testing/espresso/setup
+https://developer.android.com/training/testing/set-up-project
+https://developer.android.com/reference/android/support/test/espresso/Espresso.html#openActionBarOverflowOrOptionsMenu(android.content.Context)
+https://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.2.pdf
