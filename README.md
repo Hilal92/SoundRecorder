@@ -2,7 +2,8 @@ Easy Sound Recorder - Espresso Functional Tests
 =============
 
 <p>This app is a simple sound recording app implementing Material Design. 
-Forked from [Orginal Repo](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)
+Forked from 
+[Orginal Repo](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)
 </p>
 
 Requirements:
