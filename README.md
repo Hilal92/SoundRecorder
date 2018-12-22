@@ -2,7 +2,7 @@ Easy Sound Recorder - Espresso Functional Tests
 =============
 
 <p>This app is a simple sound recording app implementing Material Design. 
-Forked from [!Orginal Repo](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)
+Forked from [Orginal Repo](https://play.google.com/store/apps/details?id=com.danielkim.soundrecorder)
 </p>
 
 Requirements:
@@ -33,7 +33,7 @@ Evaluation Criteria:
 - Clean Code techniques should be applied
 
 Useful Links:
-https://developer.android.com/training/testing/espresso/setup
-https://developer.android.com/training/testing/set-up-project
-https://developer.android.com/reference/android/support/test/espresso/Espresso.html#openActionBarOverflowOrOptionsMenu(android.content.Context)
-https://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.2.pdf
+- https://developer.android.com/training/testing/espresso/setup
+- https://developer.android.com/training/testing/set-up-project
+- https://developer.android.com/reference/android/support/test/espresso/Espresso.html#openActionBarOverflowOrOptionsMenu(android.content.Context)
+- https://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.2.pdf
