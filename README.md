@@ -25,6 +25,7 @@ Forked from
 - Clean Code techniques should be applied
 
 **Useful Links:**
+- https://developer.android.com/studio/install
 - https://developer.android.com/training/testing/espresso/setup
 - https://developer.android.com/training/testing/set-up-project
 - https://developer.android.com/reference/android/support/test/espresso/Espresso.html#openActionBarOverflowOrOptionsMenu(android.content.Context)
