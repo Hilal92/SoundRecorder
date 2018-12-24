@@ -8,20 +8,9 @@ Forked from
 
 </p>
 
-**Requirements:**
-
-- User can record sound
-- User can rename a recorded sound file
-- User can delete a recorded sound file
-- User can enable high quality recording
-- User can have more than one recorded sound file
-- User can open recorded sound files
-- User should be notified after sound recorded
-- App should have Spanish and French language support
-
 **You have 2 goals:**
-- Preparing test cases
-- Implementing them
+- Preparing test cases for app 
+- Implementing 5 of them
 
 **Important Points:**
 - Fork repo and start with new one
